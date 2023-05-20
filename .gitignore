@@ -1,0 +1,5 @@
+# .gitignore
+
+# Dosyaları yüklememe
+gptapikey.txt
+api_key
