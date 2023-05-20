@@ -1,4 +1,5 @@
 # Gpt-Bot
+https://github.com/Zabraham-fab/Gpt-Bot.git/233648.png
 Information about the Project:
 - Chat GPT Bot is an assistant application with a visual user interface developed using Tkinter in Python language.
 - Chat GPT is a large language model developed by OpenAI. This model provides an ideal foundation for natural language processing and dialogue systems due to its extensive language knowledge and understanding capabilities.
