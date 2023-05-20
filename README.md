@@ -1,5 +1,6 @@
 # Gpt-Bot
-https://github.com/Zabraham-fab/Gpt-Bot/blob/b04d3101857db4fce418422e38b64b99a884bc6a/233648.png
+
+<img src="https://github.com/Zabraham-fab/Gpt-Bot/blob/b04d3101857db4fce418422e38b64b99a884bc6a/233648.png">
 
 
 Information about the Project:
